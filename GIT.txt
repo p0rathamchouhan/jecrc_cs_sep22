@@ -15,4 +15,4 @@ git remote add origin "yourrepolink.git"
 
 
 git commit -m "anymessage"
-git pish -u origin main
+git push -u origin main            # or master or whatever branch
