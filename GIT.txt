@@ -1,0 +1,18 @@
+Git Process
+-------------
+> Create new Repository
+> Provide valid name
+> Select Public repo
+> finish
+
+GIT COMMANDS. JECRC_CS
+---------------
+git init              # Initialize the GIT folder
+git add .             # Add all files/folders in git folder
+git config user.name "Your Name"
+git config user.email "your email@id.com"
+git remote add origin "yourrepolink.git"
+
+
+git commit -m "anymessage"
+git pish -u origin main
